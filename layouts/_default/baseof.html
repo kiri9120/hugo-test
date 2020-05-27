@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    top of baseof
+    <hr>
+    {{ block "main" . }}
+
+    {{ end }}
+    <br>
+    {{ block "footer" . }}
+        This is the default baseof footer
+    {{ end }}
+    <hr>
+    bottom of baseof
+</body>
+</html>
