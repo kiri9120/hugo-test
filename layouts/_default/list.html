@@ -2,9 +2,12 @@
     This is the list template
 <br>
 
-    {{ range .Pages }}
-    {{ .Title }}
-    {{ end }}
+{{ $title := .Title }}
+{{ range .Site.Pages }}
+<ul>
+<li><a href="{{.Permalink}}" style="{{ if eq .Title $title }} background-color: yellow; {{end}}">{{ .Title }}</a></li>
+</ul>
+{{ end }}
 
 {{ end }}
 {{ define "footer" }}
