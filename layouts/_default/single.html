@@ -2,13 +2,12 @@
 <h1 style="color: {{ .Params.color }}">Single Template</h1>
 <hr>
 <br>
-{{ .Title }}
+{{ truncate 20 "This is a really long" }}
 <br>
-{{ $myVarName := "aString" }}
+{{ add 1 5 }}
 <br>
-{{ $myVarName }}
-<br>
-{{ .Params.myVar }}
+{{ singularize "dogs" }}
+
 {{ end }}
 {{ define "footer" }}
     This is the single footer
