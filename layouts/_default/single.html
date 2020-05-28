@@ -1,12 +1,8 @@
 {{ define "main" }}
 <h1 style="color: {{ .Params.color }}">Single Template</h1>
 <hr>
-<br>
-{{ truncate 20 "This is a really long" }}
-<br>
-{{ add 1 5 }}
-<br>
-{{ singularize "dogs" }}
+
+{{ partial "header" (dict "myTitle" "mycustomTitle" "myDate" "myCustomDate") }}
 
 {{ end }}
 {{ define "footer" }}
