@@ -1,10 +1,7 @@
 {{ define "main" }}
-<h1 style="color: {{ .Params.color }}">Single Template</h1>
+<h1>{{ .Title }}</h1>
+<div>
+    {{ .Content }}
+</div>
 <hr>
-
-{{ partial "header" (dict "myTitle" "mycustomTitle" "myDate" "myCustomDate") }}
-
-{{ end }}
-{{ define "footer" }}
-    This is the single footer
 {{ end }}
