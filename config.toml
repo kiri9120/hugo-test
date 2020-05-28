@@ -2,3 +2,7 @@ baseURL = "http://localhost:1313/"
 languageCode = "ja-JP"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme"
+[module]
+  [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.min.js"
+    target = "static/js/main.js"
