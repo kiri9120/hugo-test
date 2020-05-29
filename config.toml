@@ -1,8 +1,10 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://kiri9120.github.io/hugo-test-deploy/"
 languageCode = "ja-JP"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme"
 sectionPagesMenu = "main"
+canonifyurls = true
+
 [module]
   [[module.mounts]]
     source = "node_modules/bootstrap/dist/js/bootstrap.min.js"
