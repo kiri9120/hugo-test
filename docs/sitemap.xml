@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/page3/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/page3/</loc>
     <lastmod>2020-05-29T12:16:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page2/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/page2/</loc>
     <lastmod>2020-05-29T12:16:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page1/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/page1/</loc>
     <lastmod>2020-05-29T12:14:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/</loc>
     <lastmod>2020-05-27T08:46:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cat1/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/cat1/</loc>
     <lastmod>2020-05-27T08:41:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cat2/c/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/cat2/c/</loc>
     <lastmod>2020-05-27T08:40:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cat2/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/cat2/</loc>
     <lastmod>2020-05-27T08:40:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cat1/b/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/cat1/b/</loc>
     <lastmod>2020-05-27T08:39:48+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/a/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/a/</loc>
     <lastmod>2020-05-27T08:35:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kiri9120.github.io/hugo-test/tags/</loc>
   </url>
   
 </urlset>

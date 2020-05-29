@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cat2s on My New Hugo Site</title>
-    <link>http://localhost:1313/cat2/</link>
+    <link>https://kiri9120.github.io/hugo-test/cat2/</link>
     <description>Recent content in Cat2s on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 27 May 2020 08:40:06 +0900</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cat2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kiri9120.github.io/hugo-test/cat2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C</title>
-      <link>http://localhost:1313/cat2/c/</link>
+      <link>https://kiri9120.github.io/hugo-test/cat2/c/</link>
       <pubDate>Wed, 27 May 2020 08:40:06 +0900</pubDate>
       
-      <guid>http://localhost:1313/cat2/c/</guid>
+      <guid>https://kiri9120.github.io/hugo-test/cat2/c/</guid>
       <description>This is the C markdown file, it&amp;rsquo;s a single page</description>
     </item>
     
