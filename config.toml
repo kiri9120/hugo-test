@@ -4,6 +4,7 @@ title = "My New Hugo Site"
 theme = "ga-hugo-theme"
 sectionPagesMenu = "main"
 canonifyurls = true
+publishDir = "docs"
 
 [module]
   [[module.mounts]]
