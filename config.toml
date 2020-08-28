@@ -1,7 +1,6 @@
 baseURL = "https://kiri9120.github.io/hugo-test/"
 languageCode = "ja-JP"
 title = "My New Hugo Site"
-theme = "hugoBasicExample"
 sectionPagesMenu = "main"
 canonifyurls = true
 publishDir = "docs"
