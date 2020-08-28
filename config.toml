@@ -4,6 +4,7 @@ title = "My New Hugo Site"
 sectionPagesMenu = "main"
 canonifyurls = true
 publishDir = "docs"
+relativeURL = true
 
 [module]
   [[module.mounts]]
